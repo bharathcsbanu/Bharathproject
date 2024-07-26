@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-26T10:57:45 IST" name="Suite" finished-at="2024-07-26T10:57:45 IST" duration-ms="96">
+    <groups>
+    </groups>
+    <test started-at="2024-07-26T10:57:45 IST" name="Test" finished-at="2024-07-26T10:57:45 IST" duration-ms="96">
+      <class name="logintest.Repo_test">
+        <test-method signature="Modifyrepotest()[pri:0, instance:logintest.Repo_test@6eda5c9]" started-at="2024-07-26T10:57:45 IST" name="Modifyrepotest" finished-at="2024-07-26T10:57:45 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Modifyrepotest -->
+        <test-method signature="repotest()[pri:0, instance:logintest.Repo_test@6eda5c9]" started-at="2024-07-26T10:57:45 IST" name="repotest" finished-at="2024-07-26T10:57:45 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repotest -->
+      </class> <!-- logintest.Repo_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
